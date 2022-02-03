@@ -9,3 +9,5 @@ Contains:
 - Request Header Validation
 - Response Payload Validation
 - Page Object 
+- JUnit
+- Java
