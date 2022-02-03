@@ -2,12 +2,23 @@
 
 Automation of API: https://rickandmortyapi.com/
 
-Contains:
+## In order to execute you should have
 
-- Rest Assured 
-- Status Code Validation
-- Request Header Validation
-- Response Payload Validation
-- Page Object 
-- JUnit
-- Java
+● Java
+● Maven
+● IDE
+● JUnit
+● Rest-Assured
+
+
+## Validations and Practices
+
+● Status code Validation
+
+● Response payload Validation
+
+● Response headers Validation
+
+● Page Object Model
+
+
